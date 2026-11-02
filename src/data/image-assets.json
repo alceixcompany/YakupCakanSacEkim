@@ -1,0 +1,324 @@
+[
+  {
+    "archive": "yakup-cakan/reference-assets/hero-concept.png",
+    "path": "public/reference-assets/hero-concept.png",
+    "url": "/reference-assets/hero-concept.png",
+    "bytes": 1831703,
+    "sha256": "83f8a2d9102feb062375f14afe4531717ff3c88678dd9b222feace98207834f2"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/instagram-reference.png",
+    "path": "public/reference-assets/instagram-reference.png",
+    "url": "/reference-assets/instagram-reference.png",
+    "bytes": 2456610,
+    "sha256": "b8747101635ba39f582c535aa49c4b99f7999e8b1c2ec9149b2db33fe86b05c1"
+  },
+  {
+    "archive": "yakup-cakan/public/file.svg",
+    "path": "public/file.svg",
+    "url": "/file.svg",
+    "bytes": 392,
+    "sha256": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307"
+  },
+  {
+    "archive": "yakup-cakan/public/globe.svg",
+    "path": "public/globe.svg",
+    "url": "/globe.svg",
+    "bytes": 1036,
+    "sha256": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9"
+  },
+  {
+    "archive": "yakup-cakan/public/window.svg",
+    "path": "public/window.svg",
+    "url": "/window.svg",
+    "bytes": 386,
+    "sha256": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66"
+  },
+  {
+    "archive": "yakup-cakan/public/favicon.svg",
+    "path": "public/favicon.svg",
+    "url": "/favicon.svg",
+    "bytes": 229,
+    "sha256": "1b5c93c799abd9dedcab6a00b7966391b27fe35a25931e9ac5d5cf0da880dcd4"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-1-before.png",
+    "path": "public/reference-assets/results/portrait-1-before.png",
+    "url": "/reference-assets/results/portrait-1-before.png",
+    "bytes": 2108578,
+    "sha256": "4e9b94bb3825ccf9587c06dd75779a177c300bd86f2765242c3138ce60b15859"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-1-after.png",
+    "path": "public/reference-assets/results/portrait-1-after.png",
+    "url": "/reference-assets/results/portrait-1-after.png",
+    "bytes": 2102831,
+    "sha256": "bf372b049f744e5eb1a184aec7ff3e58987f8ee336df675dc2a15866e0cd0ed4"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-3-before.png",
+    "path": "public/reference-assets/results/portrait-3-before.png",
+    "url": "/reference-assets/results/portrait-3-before.png",
+    "bytes": 2308006,
+    "sha256": "cd35d6e8429ca5c8dadeaf150138f35efe252cce957189db1411c17a6db0be2a"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-3-after.png",
+    "path": "public/reference-assets/results/portrait-3-after.png",
+    "url": "/reference-assets/results/portrait-3-after.png",
+    "bytes": 2251577,
+    "sha256": "2928127b88a1516b9cac7f5d6453e07bc8328bb9e64f990aba73ec177df830b8"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-2-after.png",
+    "path": "public/reference-assets/results/portrait-2-after.png",
+    "url": "/reference-assets/results/portrait-2-after.png",
+    "bytes": 2117248,
+    "sha256": "9082cdef962de94de7077ace90be4756c2d740594ea77da9b3bbb0cec3996a73"
+  },
+  {
+    "archive": "yakup-cakan/reference-assets/results/portrait-2-before.png",
+    "path": "public/reference-assets/results/portrait-2-before.png",
+    "url": "/reference-assets/results/portrait-2-before.png",
+    "bytes": 2172160,
+    "sha256": "a25233570230cbb63f0dd588b0ecf3e92bf2b7bad64f2aeabbd4444915310a16"
+  },
+  {
+    "archive": "yakup-cakan/public/brand/wordmark.png",
+    "path": "public/brand/wordmark.png",
+    "url": "/brand/wordmark.png",
+    "bytes": 18660,
+    "sha256": "688ed41e57f1d1f9923b4043ea96218d94891920b4b2c715d1c1cbea3ece9529"
+  },
+  {
+    "archive": "yakup-cakan/public/brand/logo-original.png",
+    "path": "public/brand/logo-original.png",
+    "url": "/brand/logo-original.png",
+    "bytes": 27923,
+    "sha256": "2043b9207ed8fa2abc1bc1feac4b2735521097e7e70aa57a94af70864d2c69d3"
+  },
+  {
+    "archive": "yakup-cakan/public/brand/monogram.png",
+    "path": "public/brand/monogram.png",
+    "url": "/brand/monogram.png",
+    "bytes": 6465,
+    "sha256": "8e802a16b30c69bf78d6d41faeb98b1ea0f049e6c7464767a7de8756ba41814b"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/atelier-800.webp",
+    "path": "public/images/editorial/atelier-800.webp",
+    "url": "/images/editorial/atelier-800.webp",
+    "bytes": 96426,
+    "sha256": "0e2259334f66f8cc5fc5baa233dacfaa95cb9c02d8370bec6dfc758e90d33fd6"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/atelier-1190.webp",
+    "path": "public/images/editorial/atelier-1190.webp",
+    "url": "/images/editorial/atelier-1190.webp",
+    "bytes": 192058,
+    "sha256": "8cfd24b9d5307515a641488e1ebcf6cae161f3a976bccb2e755356cd82953250"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/hair-detail-800.webp",
+    "path": "public/images/editorial/hair-detail-800.webp",
+    "url": "/images/editorial/hair-detail-800.webp",
+    "bytes": 153218,
+    "sha256": "dbc67c3092ac15310bb3056dfd39d3e91f61c346dd8d5c6bfb16d12864295be6"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/portrait-800.webp",
+    "path": "public/images/editorial/portrait-800.webp",
+    "url": "/images/editorial/portrait-800.webp",
+    "bytes": 53670,
+    "sha256": "a9e341083d24b858e72e9eb002c1579b621c6d8e23302ef25b98b371c152b6f7"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/textured-style-800.webp",
+    "path": "public/images/editorial/textured-style-800.webp",
+    "url": "/images/editorial/textured-style-800.webp",
+    "bytes": 69502,
+    "sha256": "43a0f17fc776294db59793f7346b751c34dedb554c8f95fb15c25cd85aa274b7"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/textured-style-1050.webp",
+    "path": "public/images/editorial/textured-style-1050.webp",
+    "url": "/images/editorial/textured-style-1050.webp",
+    "bytes": 99914,
+    "sha256": "79a7f55456c7f682989025d274841c2ce056d458f2fba88924902ab015d59c0e"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/portrait-480.webp",
+    "path": "public/images/editorial/portrait-480.webp",
+    "url": "/images/editorial/portrait-480.webp",
+    "bytes": 29260,
+    "sha256": "8b5ca5df741aa143026af92cf6f79e8f989425e032bfddea0fe2ae8bce3988c3"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/textured-style-480.webp",
+    "path": "public/images/editorial/textured-style-480.webp",
+    "url": "/images/editorial/textured-style-480.webp",
+    "bytes": 38622,
+    "sha256": "3e998f6e373b31920ef58393ee6918554e125d91267490fba4b8ce0125a9c319"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/hair-detail-1600.webp",
+    "path": "public/images/editorial/hair-detail-1600.webp",
+    "url": "/images/editorial/hair-detail-1600.webp",
+    "bytes": 385310,
+    "sha256": "0f67a837784f1a6fde5f2cdd95e8ee19fabb69b3ac5f2c80419f773ca2e8d4dc"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/portrait-1600.webp",
+    "path": "public/images/editorial/portrait-1600.webp",
+    "url": "/images/editorial/portrait-1600.webp",
+    "bytes": 120844,
+    "sha256": "1bd0e90605296315509ff135be664847766a089bab2c79faad96632a287b6d5b"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/atelier-480.webp",
+    "path": "public/images/editorial/atelier-480.webp",
+    "url": "/images/editorial/atelier-480.webp",
+    "bytes": 34588,
+    "sha256": "03619877dc8cb6d4bba06192b12dd8dc52e8c5a060dfbdf90ad32f9c82eb0a0f"
+  },
+  {
+    "archive": "yakup-cakan/public/images/editorial/hair-detail-480.webp",
+    "path": "public/images/editorial/hair-detail-480.webp",
+    "url": "/images/editorial/hair-detail-480.webp",
+    "bytes": 65860,
+    "sha256": "588c7c46a8f750a2b7864a167c97fcf4ca259520567175916d1a1a005b6f69ce"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-before-480.webp",
+    "path": "public/images/results/portrait-3-before-480.webp",
+    "url": "/images/results/portrait-3-before-480.webp",
+    "bytes": 50862,
+    "sha256": "ef3f7e0723abd3d5a2069bc1abe7e87f40bd58a452a5678cd81e7ffea06beb88"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-before-800.webp",
+    "path": "public/images/results/portrait-1-before-800.webp",
+    "url": "/images/results/portrait-1-before-800.webp",
+    "bytes": 85718,
+    "sha256": "6ba9868206fb949f395d3c67b916b7400d200c137182746e0e674a8707683247"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/instagram-original.png",
+    "path": "public/images/results/instagram-original.png",
+    "url": "/images/results/instagram-original.png",
+    "bytes": 2456610,
+    "sha256": "b8747101635ba39f582c535aa49c4b99f7999e8b1c2ec9149b2db33fe86b05c1"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-after-1122.webp",
+    "path": "public/images/results/portrait-2-after-1122.webp",
+    "url": "/images/results/portrait-2-after-1122.webp",
+    "bytes": 170952,
+    "sha256": "1fc73ef8d4c47ed1aa588076cbf8d2a968e8cdeb3253fac98d8fcf5dddb98fb0"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-after-480.webp",
+    "path": "public/images/results/portrait-1-after-480.webp",
+    "url": "/images/results/portrait-1-after-480.webp",
+    "bytes": 35342,
+    "sha256": "e5c76c6160185d21d12c9d796db308fa5ad925cee8e43c365bf77f4cb8c790d3"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-after-480.webp",
+    "path": "public/images/results/portrait-3-after-480.webp",
+    "url": "/images/results/portrait-3-after-480.webp",
+    "bytes": 52076,
+    "sha256": "68b9ce56ee2d4041b43355e6fad137afd0e413cc40cdb13e5fcb453e2e86c8f3"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-before-1122.webp",
+    "path": "public/images/results/portrait-1-before-1122.webp",
+    "url": "/images/results/portrait-1-before-1122.webp",
+    "bytes": 167740,
+    "sha256": "93fed99388f014807bcfd5bd94d420f6c9806cc068c5fb81c1a52b21dbd26952"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-before-480.webp",
+    "path": "public/images/results/portrait-2-before-480.webp",
+    "url": "/images/results/portrait-2-before-480.webp",
+    "bytes": 36188,
+    "sha256": "aae7ca114b53b225f197c920fd2ae9afd43c07829b0ec42acc761cfbb2646499"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-after-480.webp",
+    "path": "public/images/results/portrait-2-after-480.webp",
+    "url": "/images/results/portrait-2-after-480.webp",
+    "bytes": 38960,
+    "sha256": "30985ccfc52f1bb731d72e092461b2145d0bb60338ea06c88fdbfecedb86b5e8"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-after-1122.webp",
+    "path": "public/images/results/portrait-3-after-1122.webp",
+    "url": "/images/results/portrait-3-after-1122.webp",
+    "bytes": 216610,
+    "sha256": "85080743da93a7bcf569468d6b7547bb7d2612ff1bb2157bc936276815090b9a"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-before-1122.webp",
+    "path": "public/images/results/portrait-2-before-1122.webp",
+    "url": "/images/results/portrait-2-before-1122.webp",
+    "bytes": 175766,
+    "sha256": "2ee31ad34694fbb91d085c76e76316b53f62aac7ded0e4386e7303e6e2983ffd"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-after-800.webp",
+    "path": "public/images/results/portrait-3-after-800.webp",
+    "url": "/images/results/portrait-3-after-800.webp",
+    "bytes": 124282,
+    "sha256": "27fd16aa1ed0e11c909765597433cb21ae236430bf545d5fe850ceac722c1798"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-before-800.webp",
+    "path": "public/images/results/portrait-2-before-800.webp",
+    "url": "/images/results/portrait-2-before-800.webp",
+    "bytes": 91186,
+    "sha256": "e6ab77ae7760eaf8ce31412b12d709aee81928006b00f5ca9fa0775ffb5371bd"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-2-after-800.webp",
+    "path": "public/images/results/portrait-2-after-800.webp",
+    "url": "/images/results/portrait-2-after-800.webp",
+    "bytes": 92866,
+    "sha256": "3dce6711204c8a2db5cdf3a687af6b86d85698c16ed85e0d4d8636df90aaaaf9"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-after-1122.webp",
+    "path": "public/images/results/portrait-1-after-1122.webp",
+    "url": "/images/results/portrait-1-after-1122.webp",
+    "bytes": 169760,
+    "sha256": "b29cdbb77008cee09c60430a3ff9347bfd370341aa97ca28e82f168983269103"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-before-800.webp",
+    "path": "public/images/results/portrait-3-before-800.webp",
+    "url": "/images/results/portrait-3-before-800.webp",
+    "bytes": 125576,
+    "sha256": "4ee6edb46135f758901c2c46b8e05bffb10312fe18877baa370821e48c31049c"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-before-480.webp",
+    "path": "public/images/results/portrait-1-before-480.webp",
+    "url": "/images/results/portrait-1-before-480.webp",
+    "bytes": 31050,
+    "sha256": "d8633cd4924cbfcac63e0d1cf2eb40b9bbfa03ccd80f784b2ed4d4a34b5ac1ea"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-3-before-1122.webp",
+    "path": "public/images/results/portrait-3-before-1122.webp",
+    "url": "/images/results/portrait-3-before-1122.webp",
+    "bytes": 224240,
+    "sha256": "ca311be5c3c9cb9595300945c3aec76799253580d2cba96da20c478fe31c63c5"
+  },
+  {
+    "archive": "yakup-cakan/public/images/results/portrait-1-after-800.webp",
+    "path": "public/images/results/portrait-1-after-800.webp",
+    "url": "/images/results/portrait-1-after-800.webp",
+    "bytes": 88836,
+    "sha256": "9917e4a55eab94320ef5a967dbf3828e6d65feddae7903fdd849a791c497727c"
+  }
+]

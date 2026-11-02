@@ -1,0 +1,16 @@
+import Link from 'next/link';
+import { ArrowUpRight, Check, Droplets, Scissors, CalendarDays, ThermometerSun } from 'lucide-react';
+const topics = [
+  { id: 'yikama', icon: Droplets, number: '01', title: 'Yıkama ve ürün seçimi', text: 'Çok sıcak su yerine ılık suyu tercih edin. Saç sisteminize uygun şampuan ve bakım ürünlerini kullanın; ev temizleyicilerini saçınıza uygulamayın.', note: 'İlk yıkama zamanı ve yıkama sıklığı için kendi sisteminize verilen talimatları takip edin.' },
+  { id: 'tarama', icon: Scissors, number: '02', title: 'Nazik tarama ve şekillendirme', text: 'Dolaşıklıkları zorlayarak çekmeyin. Sisteminize uygun bir tarak veya fırça kullanın; şekillendirme ürünlerini seçerken uygulamayı yapan ekibe danışın.', note: 'Takılma hissettiğinizde çekiştirmek yerine durup nazikçe açın.' },
+  { id: 'isi', icon: ThermometerSun, number: '03', title: 'Isı kullanımına dikkat', text: 'Yüksek ısı ve uzun süreli fön saç sistemini yıpratabilir. Kullanacağınız cihazın ve ürünün sisteminize uygunluğunu öğrenin; gereksiz ısı kullanımını azaltın.', note: 'Doğal ve sentetik saç sistemlerinde ısıya uygunluk farklı olabilir.' },
+  { id: 'merkez-bakimi', icon: CalendarDays, number: '04', title: 'Merkezde düzenli bakım', text: 'Söküm, temizlik ve yeniden uygulama sürecini profesyonel ekiple planlayın. Herkes için tek bir bakım aralığı yerine, sisteminiz ve kullanım alışkanlıklarınız değerlendirilmelidir.', note: 'Bakım randevusunda kullandığınız ürünleri ve merak ettiğiniz konuları paylaşın.' },
+];
+export default function CareGuide() {
+  return <div className="care-content section"><div className="care-introduction"><div className="care-experience"><strong>2017</strong><span>DEN BERİ DENEYİM<br />UYGULAMADAN BAKIMA</span></div><p>İyi bir bakım rutini, uygulama sonrasındaki deneyimin bir parçasıdır. Bu rehber genel bir başlangıç sunar; sizin için doğru ürünleri ve takvimi merkezimizle birlikte belirleyin.</p></div>
+    <nav className="care-jump-links" aria-label="Bakım rehberi konuları">{topics.map(topic => <a key={topic.id} href={`#${topic.id}`}>{topic.number} {topic.title}</a>)}</nav>
+    <div className="care-topics">{topics.map(topic => <section className="care-topic" key={topic.id} id={topic.id} aria-labelledby={`${topic.id}-title`}><div className="care-topic-icon"><topic.icon size={29} strokeWidth={1.3} /></div><div><span className="eyebrow">BAKIM NOTU / {topic.number}</span><h2 id={`${topic.id}-title`}>{topic.title}</h2><p>{topic.text}</p><div className="care-tip"><Check size={18} /><p>{topic.note}</p></div></div></section>)}</div>
+    <section className="care-plan"><div><div className="eyebrow">BAKIM TAKVİMİNİZİ BİRLİKTE PLANLAYALIM</div><h2>Size uygun bakım,<br /><em>size özel bir plan.</em></h2><p>Son uygulama tarihinizi, günlük alışkanlıklarınızı ve mevcut sisteminizi konuşalım. Bakım kapsamı, uygun gün ve fiyat bilgisi için bize ulaşın.</p></div><Link className="button primary" href="/iletisim#randevu">Bakım randevusu al <ArrowUpRight size={20} /></Link></section>
+    <div className="care-source"><p>Genel ürün ve kullanım notları için kaynak: <a href="https://blog.walkertapeco.com/the-dos-and-donts-of-hair-system-care/" target="_blank" rel="noreferrer">Walker Tape — Hair System Care <ArrowUpRight size={13} /></a>. Kullanılan sistemin ve ürünün kendi talimatları esas alınır.</p></div>
+  </div>;
+}
